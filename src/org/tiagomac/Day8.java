@@ -1,4 +1,4 @@
-package tiagomac.org;
+package org.tiagomac;
 
 import java.util.*;
 import java.io.*;
