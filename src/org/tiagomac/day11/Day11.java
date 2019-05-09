@@ -1,4 +1,4 @@
-package org.tiagomac;
+package org.tiagomac.day11;
 
 import java.io.*;
 import java.math.*;

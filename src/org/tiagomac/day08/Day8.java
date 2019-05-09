@@ -1,4 +1,4 @@
-package org.tiagomac;
+package org.tiagomac.day08;
 
 import java.util.*;
 import java.io.*;
